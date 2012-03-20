@@ -13,7 +13,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": ">= 0.8.7",
+    "engine.io": "git://github.com/LearnBoost/engine.io.git",
     "node-proxy": ">= 0.4.0"
 },
   "devDependencies": {}
