@@ -1,3 +1,5 @@
+Nowjs modified to work directly on top of engine.io. Does not stat automatically. Must call `now.core.start()` to start.
+
 Get NowJS http://www.nowjs.com/
 =========
 
