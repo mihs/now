@@ -13,7 +13,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "engine.io": "git://github.com/LearnBoost/engine.io.git",
+    "engine.io": "git://github.com/mihs/engine.io.git#dynamicpolling",
     "node-proxy": ">= 0.4.0"
 },
   "devDependencies": {}
